@@ -1,0 +1,10 @@
+[1 Point] Access the assignment on GitHub: https://classroom.github.com/a/hnMP8TLzLinks to an external site.
+[4 Points] Create a new pull request containing at minimum the following:
+          Intended platform for final project (e.g. Android, iOS): Android.
+          Intended framework/programming language for your final project: Java or Python
+          Whether you want to explore cross-platform development: Potentially.
+          Include a brief explanation for your selections: I chose android because I prefer the OS over iOS. I'm likely very biased because I've only ever used
+                                                           Android phones. My choices in the programming language is still iffy and it's because I would like to
+                                                           try crossplatform development but I'm not sure if there is a requirement of what language needs to be used.
+                                                           If possible I would like to only use one language if to only save time. I want to try cross-platform
+                                                           development because I personally just enjoy being able to interact with people on apps that are cross platform
